@@ -2,7 +2,7 @@
 Disaster Preparedness Web Application A Python-driven website to enhance disaster readiness, utilizing a SQLite database for data management and modular utility functions for streamlined operations. Built for accessibility and efficiency.
 
 
-##Steps to Run the Project
+## Steps to Run the Project
 1. Install Required Software:
 Ensure you have Python 3.7 or higher installed.
 Install a SQLite client if needed (optional, for direct database access).
